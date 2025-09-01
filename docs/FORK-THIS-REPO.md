@@ -37,8 +37,8 @@ Execute the commands one at a time to:
 cd \
 mkdir Projects
 cd Projects
-git clone https://github.com/**youraccount**/**your-repo-name**
-cd **your-repo-name**
+git clone https://github.com/mindy0cruz/buzzline-01-mcruz
+cd **buzzline-01-mcruz**
 code .
 ```
 
