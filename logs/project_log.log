@@ -608,3 +608,1601 @@
 2025-08-31 20:23:39.717 | INFO     | __main__:main:114 - I just sprinted a buzzer-beater! It was thrilling.
 2025-08-31 20:23:42.719 | INFO     | __main__:main:114 - I just sprinted a buzzer-beater! It was thrilling.
 2025-08-31 20:23:45.721 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was fast-paced.
+2025-08-31 20:48:16.604 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-31 20:48:16.606 | INFO     | __main__:main:106 - START producer...
+2025-08-31 20:48:16.606 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-08-31 20:48:16.607 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-31 20:48:16.607 | INFO     | __main__:main:114 - I just assisted a three-pointer! It was amazing.
+2025-08-31 20:48:19.609 | INFO     | __main__:main:114 - I just scored a buzzer-beater! It was thrilling.
+2025-08-31 20:48:22.612 | INFO     | __main__:main:114 - I just blocked a fast break! It was unbelievable.
+2025-08-31 20:48:25.614 | INFO     | __main__:main:114 - I just assisted a three-pointer! It was fast-paced.
+2025-08-31 20:48:28.615 | INFO     | __main__:main:114 - I just blocked a three-pointer! It was fast-paced.
+2025-08-31 20:48:31.618 | INFO     | __main__:main:114 - I just assisted a three-pointer! It was amazing.
+2025-08-31 20:48:34.621 | INFO     | __main__:main:114 - I just sprinted a steal! It was fast-paced.
+2025-08-31 20:48:37.624 | INFO     | __main__:main:114 - I just assisted a three-pointer! It was fast-paced.
+2025-08-31 20:48:40.626 | INFO     | __main__:main:114 - I just assisted a buzzer-beater! It was fast-paced.
+2025-08-31 20:48:43.628 | INFO     | __main__:main:114 - I just blocked an alley-oop! It was fast-paced.
+2025-08-31 20:48:46.629 | INFO     | __main__:main:114 - I just blocked a buzzer-beater! It was unbelievable.
+2025-08-31 20:48:49.631 | INFO     | __main__:main:114 - I just sprinted a fast break! It was dominant.
+2025-08-31 20:48:52.634 | INFO     | __main__:main:114 - I just scored a three-pointer! It was dominant.
+2025-08-31 20:48:55.636 | INFO     | __main__:main:114 - I just sprinted a steal! It was unbelievable.
+2025-08-31 20:48:58.639 | INFO     | __main__:main:114 - I just scored a steal! It was unbelievable.
+2025-08-31 20:49:01.641 | INFO     | __main__:main:114 - I just dunked a steal! It was dominant.
+2025-08-31 20:49:04.643 | INFO     | __main__:main:114 - I just sprinted an alley-oop! It was thrilling.
+2025-08-31 20:49:07.646 | INFO     | __main__:main:114 - I just scored a fast break! It was thrilling.
+2025-08-31 20:49:10.649 | INFO     | __main__:main:114 - I just sprinted a three-pointer! It was unbelievable.
+2025-08-31 20:49:13.652 | INFO     | __main__:main:114 - I just blocked a steal! It was thrilling.
+2025-08-31 20:49:16.653 | INFO     | __main__:main:114 - I just assisted a three-pointer! It was thrilling.
+2025-08-31 20:49:19.655 | INFO     | __main__:main:114 - I just sprinted a steal! It was amazing.
+2025-08-31 20:49:22.657 | INFO     | __main__:main:114 - I just blocked a steal! It was thrilling.
+2025-08-31 20:49:25.659 | INFO     | __main__:main:114 - I just assisted a steal! It was dominant.
+2025-08-31 20:49:28.662 | INFO     | __main__:main:114 - I just assisted a fast break! It was thrilling.
+2025-08-31 20:49:31.665 | INFO     | __main__:main:114 - I just blocked an alley-oop! It was amazing.
+2025-08-31 20:49:34.668 | INFO     | __main__:main:114 - I just assisted a steal! It was thrilling.
+2025-08-31 20:49:37.671 | INFO     | __main__:main:114 - I just scored a buzzer-beater! It was amazing.
+2025-08-31 20:49:40.673 | INFO     | __main__:main:114 - I just blocked a buzzer-beater! It was dominant.
+2025-08-31 20:49:43.676 | INFO     | __main__:main:114 - I just blocked a steal! It was dominant.
+2025-08-31 20:49:46.679 | INFO     | __main__:main:114 - I just assisted a steal! It was dominant.
+2025-08-31 20:49:49.682 | INFO     | __main__:main:114 - I just dunked a three-pointer! It was unbelievable.
+2025-08-31 20:49:52.684 | INFO     | __main__:main:114 - I just scored a steal! It was unbelievable.
+2025-08-31 20:49:55.687 | INFO     | __main__:main:114 - I just dunked a three-pointer! It was amazing.
+2025-08-31 20:49:57.557 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-31 20:49:57.557 | INFO     | __main__:main:73 - START...
+2025-08-31 20:49:57.557 | INFO     | __main__:main:79 - Reading file located at logs\project_log.log.
+2025-08-31 20:49:58.689 | INFO     | __main__:main:114 - I just assisted a fast break! It was dominant.
+2025-08-31 20:50:01.689 | INFO     | __main__:main:114 - I just dunked a buzzer-beater! It was thrilling.
+2025-08-31 20:50:04.691 | INFO     | __main__:main:114 - I just dunked a fast break! It was dominant.
+2025-08-31 20:50:07.692 | INFO     | __main__:main:114 - I just sprinted a steal! It was thrilling.
+2025-08-31 20:50:10.694 | INFO     | __main__:main:114 - I just dunked a steal! It was fast-paced.
+2025-08-31 20:50:13.696 | INFO     | __main__:main:114 - I just assisted a steal! It was unbelievable.
+2025-08-31 20:50:16.698 | INFO     | __main__:main:114 - I just assisted a three-pointer! It was unbelievable.
+2025-08-31 20:50:19.700 | INFO     | __main__:main:114 - I just assisted a fast break! It was unbelievable.
+2025-08-31 20:50:22.702 | INFO     | __main__:main:114 - I just assisted an alley-oop! It was thrilling.
+2025-08-31 20:50:25.705 | INFO     | __main__:main:114 - I just scored a three-pointer! It was thrilling.
+2025-08-31 20:50:28.707 | INFO     | __main__:main:114 - I just sprinted a fast break! It was dominant.
+2025-08-31 20:50:31.709 | INFO     | __main__:main:114 - I just sprinted a fast break! It was unbelievable.
+2025-08-31 20:50:34.712 | INFO     | __main__:main:114 - I just scored a buzzer-beater! It was amazing.
+2025-08-31 20:50:37.714 | INFO     | __main__:main:114 - I just scored an alley-oop! It was fast-paced.
+2025-08-31 20:50:40.717 | INFO     | __main__:main:114 - I just assisted a steal! It was unbelievable.
+2025-08-31 20:50:43.719 | INFO     | __main__:main:114 - I just dunked a fast break! It was dominant.
+2025-08-31 20:50:46.721 | INFO     | __main__:main:114 - I just assisted a steal! It was thrilling.
+2025-08-31 20:50:49.723 | INFO     | __main__:main:114 - I just assisted a buzzer-beater! It was fast-paced.
+2025-08-31 20:50:52.726 | INFO     | __main__:main:114 - I just assisted an alley-oop! It was thrilling.
+2025-08-31 20:50:55.729 | INFO     | __main__:main:114 - I just scored a steal! It was thrilling.
+2025-08-31 20:50:58.732 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was thrilling.
+2025-08-31 20:51:01.735 | INFO     | __main__:main:114 - I just assisted a steal! It was amazing.
+2025-08-31 20:51:04.736 | INFO     | __main__:main:114 - I just dunked a fast break! It was thrilling.
+2025-08-31 20:51:07.738 | INFO     | __main__:main:114 - I just assisted a fast break! It was amazing.
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.677 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.688 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.697 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.705 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.716 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.725 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.730 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.733 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.737 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.738 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.740 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.744 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.746 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.747 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.749 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.750 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.752 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.753 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.755 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.756 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.758 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.759 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.761 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.763 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.764 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.766 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.767 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.769 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.770 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.772 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.774 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.776 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.777 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.778 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.779 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.781 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.783 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.786 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.788 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.791 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.795 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.798 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.800 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.802 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.805 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.807 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.810 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.812 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.815 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.824 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.828 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.832 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.836 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.839 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.843 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.847 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.850 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.854 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.858 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.860 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.863 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.866 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.870 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.874 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.877 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.879 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.882 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.885 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.887 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.889 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.891 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.893 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.894 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.896 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.898 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.900 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.902 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.909 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.912 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.914 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.917 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.919 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.924 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.928 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.930 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.932 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.936 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.938 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.942 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.944 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.947 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.949 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.957 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.959 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.962 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.964 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.966 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.968 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.970 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.972 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.974 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.977 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.985 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.987 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.991 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.994 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:11.998 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.001 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.004 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.007 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.015 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.017 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.021 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.024 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.030 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.033 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.036 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.039 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.049 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.051 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.054 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.058 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.067 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.071 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.075 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.080 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.084 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.088 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.091 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.095 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.098 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.101 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.110 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.112 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.115 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.120 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.129 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.135 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.138 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.143 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.146 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.149 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.153 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.160 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.163 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.169 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.191 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.196 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.199 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.205 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.208 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.211 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.219 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.222 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.226 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.249 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.257 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.263 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.275 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.278 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.283 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.300 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.303 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.306 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.315 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.319 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.323 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.332 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.336 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.347 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.352 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.357 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.361 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.364 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.369 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.378 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.383 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.387 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.394 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.398 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.408 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.411 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.418 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.431 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.436 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.453 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.459 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.466 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.472 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.475 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.480 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.488 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.493 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.500 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.504 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.515 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.519 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.523 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.533 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.538 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.548 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.551 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.558 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.573 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.578 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.609 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.618 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.627 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.634 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.638 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.644 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.647 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.659 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.663 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.674 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.680 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.686 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.691 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.695 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.705 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.710 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.725 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.737 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.746 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.753 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.759 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.777 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.781 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.799 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.805 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.821 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.828 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.833 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.837 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.845 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.850 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.861 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.865 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.877 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.881 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.891 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.895 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.907 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.916 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.922 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.929 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.935 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.940 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.953 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.960 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.964 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.973 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.977 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:12.988 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.000 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.004 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.009 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.019 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.032 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.037 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.050 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.055 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.068 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.074 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.095 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.104 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.117 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.123 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.137 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.142 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.160 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.165 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.182 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.190 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.198 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.207 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.212 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.223 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.229 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.240 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.245 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.259 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.270 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.274 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.286 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.293 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.302 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.311 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.321 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.327 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.338 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.349 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.359 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.368 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.374 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.389 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.395 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.418 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.433 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.447 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.460 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.467 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.478 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.491 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.500 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.511 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.520 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.527 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.537 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.542 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.556 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.564 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.573 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.588 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.598 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.604 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.610 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.619 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.633 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.638 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.650 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.662 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.668 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.680 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.686 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.699 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.709 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.716 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.730 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.741 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.743 | INFO     | __main__:main:114 - I just dunked a fast break! It was dominant.
+2025-08-31 20:51:13.750 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.766 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.778 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.787 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.794 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.810 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.836 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.859 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.867 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.880 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.886 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.901 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.909 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.916 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.930 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.941 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.948 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.965 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.976 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.983 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:13.993 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.007 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.014 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.025 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.040 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.045 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.068 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.087 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.101 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.108 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.119 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.130 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.137 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.149 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.162 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.169 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.183 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.208 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.219 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.238 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.259 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.273 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.279 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.292 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.307 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.320 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.328 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.342 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.364 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.383 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.391 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.403 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.418 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.427 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.437 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.451 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.465 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.474 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.486 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.503 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.528 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.551 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.567 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.579 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.592 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.607 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.617 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.625 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.637 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.652 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.660 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.671 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.683 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.696 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.703 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.719 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.734 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.752 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.777 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.792 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.804 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.834 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.864 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.885 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.894 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.904 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.919 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.933 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.947 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.956 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.968 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:14.983 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.002 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.013 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.021 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.038 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.048 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.062 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.076 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.089 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.105 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.117 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.131 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.142 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.155 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.169 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.184 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.191 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.216 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.227 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.253 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.282 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.297 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.309 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.319 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.329 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.375 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.403 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.423 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.435 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.444 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.457 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.472 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.489 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.500 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.518 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.531 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.540 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.551 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.568 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.580 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.592 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.608 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.624 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.643 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.656 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.668 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.683 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.698 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.714 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.724 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.737 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.756 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.776 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.787 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.801 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.813 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.829 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.843 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.857 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.873 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.891 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.913 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.947 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.963 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.983 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:15.997 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.011 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.027 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.042 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.061 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.100 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.123 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.141 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.170 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.187 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.201 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.217 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.230 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.246 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.262 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.278 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.293 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.308 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.332 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.356 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.372 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.390 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.407 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.421 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.442 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.457 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.471 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.492 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.516 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.541 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.566 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.580 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.597 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.614 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.636 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.655 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.670 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.688 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.700 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.718 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.734 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.745 | INFO     | __main__:main:114 - I just dunked a fast break! It was unbelievable.
+2025-08-31 20:51:16.750 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.772 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.794 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.810 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.827 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.843 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.861 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.879 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.895 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.919 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.939 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.957 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:16.973 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.001 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.015 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.049 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.077 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.098 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.112 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.127 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.142 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.168 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.179 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.220 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.246 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.266 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.280 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.297 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.321 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.344 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.371 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.387 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.434 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.451 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.468 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.496 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.514 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.538 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.567 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.581 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.610 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.631 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.643 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.662 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.678 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.696 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.722 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.763 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.780 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.796 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.813 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.831 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.849 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.871 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.889 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.910 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.929 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:17.978 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.000 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.031 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.053 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.080 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.100 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.114 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.136 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.156 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.180 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.204 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.237 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.262 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.290 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.311 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.333 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.348 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.373 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.389 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.409 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.433 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.459 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.480 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.496 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.515 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.533 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.557 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.576 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.598 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.617 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.658 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.684 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.701 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.722 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.736 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.762 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.785 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.801 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.834 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.856 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.874 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.890 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.929 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:18.979 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.003 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.020 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.035 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.060 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.079 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.097 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.115 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.142 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.158 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.180 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.202 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.222 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.238 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.256 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.287 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.312 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.332 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.352 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.393 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.411 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.432 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.454 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.472 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.491 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.518 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.542 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.564 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.588 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.614 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.631 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.653 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.683 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.710 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.728 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.746 | INFO     | __main__:main:114 - I just dunked a fast break! It was unbelievable.
+2025-08-31 20:51:19.759 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.807 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.833 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.853 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.876 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.895 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.913 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.941 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.964 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:19.997 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.038 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.061 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.090 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.128 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.158 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.178 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.224 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.263 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.290 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.316 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.338 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.362 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.378 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.397 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.425 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.453 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.478 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.508 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.538 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.561 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.600 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.620 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.645 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.666 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.689 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.719 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.745 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.774 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.791 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.810 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.835 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.854 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.882 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.903 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.922 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.961 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:20.982 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.023 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.043 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.061 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.092 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.114 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.168 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.184 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.215 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.244 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.262 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.289 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.312 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.337 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.352 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.379 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.404 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.451 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.516 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.548 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.587 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.613 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.633 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.650 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.679 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.699 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.726 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.743 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.786 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.803 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.822 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.850 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.883 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.917 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.950 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.976 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:21.995 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.021 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.046 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.068 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.093 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.153 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.188 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.211 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.230 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.266 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.284 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.319 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.339 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.369 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.389 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.414 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.432 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.461 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.482 | WARNING  | __main__:process_message:64 - ALERT: The special message was found! 
+2025-08-31 20:51:10.741 | INFO     | __main__:main:114 - I just dunked an alley-oop! It was amazing.
+2025-08-31 20:51:22.505 | INFO     | __main__:main:90 - END.....
+2025-08-31 20:51:22.747 | INFO     | __main__:main:114 - I just sprinted a three-pointer! It was unbelievable.
+2025-08-31 20:51:25.748 | INFO     | __main__:main:114 - I just dunked a steal! It was thrilling.
