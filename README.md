@@ -43,6 +43,8 @@ Windows PowerShell:
 ```shell
 .venv\Scripts\activate
 py -m producers.basic_producer_case
+
+py -m producers.basic_producer_mcruz
 ```
 
 Mac/Linux:
@@ -63,6 +65,8 @@ Windows:
 ```shell
 .venv\Scripts\activate
 py -m consumers.basic_consumer_case
+
+py -m consumers.basic_consumer_mcruz
 ```
 
 Mac/Linux:
