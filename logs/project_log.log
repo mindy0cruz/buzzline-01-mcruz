@@ -2206,3 +2206,29 @@
 2025-08-31 20:51:22.505 | INFO     | __main__:main:90 - END.....
 2025-08-31 20:51:22.747 | INFO     | __main__:main:114 - I just sprinted a three-pointer! It was unbelievable.
 2025-08-31 20:51:25.748 | INFO     | __main__:main:114 - I just dunked a steal! It was thrilling.
+2025-08-31 20:57:21.299 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-31 20:57:21.300 | INFO     | __main__:main:106 - START producer...
+2025-08-31 20:57:21.300 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-08-31 20:57:21.300 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-31 20:57:21.300 | INFO     | __main__:main:114 - I just blocked a three-pointer! It was fast-paced.
+2025-08-31 20:57:24.301 | INFO     | __main__:main:114 - I just blocked a buzzer-beater! It was fast-paced.
+2025-08-31 20:57:27.304 | INFO     | __main__:main:114 - I just blocked a steal! It was thrilling.
+2025-08-31 20:57:30.306 | INFO     | __main__:main:114 - I just dunked a fast break! It was amazing.
+2025-08-31 20:57:33.308 | INFO     | __main__:main:114 - I just sprinted a three-pointer! It was fast-paced.
+2025-08-31 20:57:36.309 | INFO     | __main__:main:114 - I just blocked a three-pointer! It was amazing.
+2025-08-31 20:57:39.311 | INFO     | __main__:main:114 - I just sprinted a fast break! It was amazing.
+2025-08-31 20:57:42.314 | INFO     | __main__:main:114 - I just sprinted an alley-oop! It was unbelievable.
+2025-08-31 20:57:45.316 | INFO     | __main__:main:114 - I just blocked a three-pointer! It was dominant.
+2025-08-31 20:57:45.918 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-31 20:57:45.919 | INFO     | __main__:main:73 - START...
+2025-08-31 20:57:45.919 | INFO     | __main__:main:79 - Reading file located at logs\project_log.log.
+2025-08-31 20:57:48.320 | INFO     | __main__:main:114 - I just assisted a buzzer-beater! It was amazing.
+2025-08-31 20:57:51.322 | INFO     | __main__:main:114 - I just assisted a fast break! It was dominant.
+2025-08-31 20:57:54.326 | INFO     | __main__:main:114 - I just assisted a steal! It was dominant.
+2025-08-31 20:57:57.327 | INFO     | __main__:main:114 - I just dunked a steal! It was fast-paced.
+2025-08-31 20:58:00.328 | INFO     | __main__:main:114 - I just scored a buzzer-beater! It was unbelievable.
+2025-08-31 20:58:03.329 | INFO     | __main__:main:114 - I just blocked an alley-oop! It was thrilling.
+2025-08-31 20:58:06.329 | INFO     | __main__:main:114 - I just assisted an alley-oop! It was dominant.
+2025-08-31 20:58:09.330 | INFO     | __main__:main:114 - I just dunked a steal! It was fast-paced.
+2025-08-31 20:58:12.333 | INFO     | __main__:main:114 - I just scored a steal! It was thrilling.
+2025-08-31 20:58:13.312 | INFO     | __main__:main:90 - END.....
